@@ -15,3 +15,4 @@ My Solutions to Datacamp Projects.
 | `TV, Halftime Shows, and the Big Game` | Loading, cleaning, and exploring Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `The Android App Market on Google Play` |Looking for insights in the data to devise strategies to drive growth and retention. |
 | `Generating Keywords for Google Ads`| Creating a prototype set of keywords for search campaigns for their sofas section. | 
+|`Which Debts Are Worth the Bank's Effort?`|Determining whether the incremental amount the bank earns exceeded the additional cost of assigning customers to a higher recovery strategy.|
