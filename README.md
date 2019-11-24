@@ -16,3 +16,4 @@ My Solutions to Datacamp Projects.
 | `The Android App Market on Google Play` |Looking for insights in the data to devise strategies to drive growth and retention. |
 | `Generating Keywords for Google Ads`| Creating a prototype set of keywords for search campaigns for their sofas section. | 
 |`Which Debts Are Worth the Bank's Effort?`|Determining whether the incremental amount the bank earns exceeded the additional cost of assigning customers to a higher recovery strategy.|
+|`Risk and Returns: The Sharpe Ratio`|Appling the Sharpe ratio to real financial data using pandas|
