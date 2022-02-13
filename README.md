@@ -20,3 +20,4 @@ My Solutions to Projects.
 | `Generating Keywords for Google Ads`| Creating a prototype set of keywords for search campaigns for their sofas section. | 
 |`Which Debts Are Worth the Bank's Effort?`|Determining whether the incremental amount the bank earns exceeded the additional cost of assigning customers to a higher recovery strategy.|
 |`Risk and Returns: The Sharpe Ratio`|Appling the Sharpe ratio to real financial data using pandas|
+|`The demand and supply during peak hours in a ride-hailing platform`|Using Python to allocate the resource to fill up the gap between demand and supply|
