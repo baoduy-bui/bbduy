@@ -1,14 +1,17 @@
-# Guided Project
-<p align="center"> 
-<img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="450">
-</p>
+# Duy BUI
+I have a strong passion for data analytics and business intelligence, translating data insights into strategic initiatives.
+
+Technical skills:
+• Programming: Python, SQL 
+• BI tools: Tableau, Power BI, Domo, Google Data Studio
+
 
 # Projects
 Designed by expert instructors, these projects are an important step in your journey to become data fluent and help you build your data science portfolio to show employers.
 <p align="center"> 
-<img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg" width="250">
+<img src="https://www.signifytechnology.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1JDQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9d44ba1b087c7bab29c120f863fde111981299e/Big_data_image.jpg" width="250">
 </p>
-My Solutions to Datacamp Projects.
+My Solutions to Projects.
 
 | Project | Description |
 | --- | --- |
