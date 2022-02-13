@@ -1,5 +1,5 @@
-# Duy BUI
-I have a strong passion for data analytics and business intelligence, translating data insights into strategic initiatives.
+# About me !!!
+I am now a data analyst with more than 2 year experiences in E-com platforms. I have a strong passion for data analytics and business intelligence, translating data insights into strategic initiatives.
 
 Technical skills:
 • Programming: Python, SQL 
