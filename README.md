@@ -7,9 +7,9 @@ Technical skills:
 
 
 # Projects
-Designed by expert instructors, these projects are an important step in your journey to become data fluent and help you build your data science portfolio to show employers.
+These projects are an important step in my journey to become data fluent and help me build my data science portfolio.
 <p align="center"> 
-<img src="https://www.signifytechnology.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1JDQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9d44ba1b087c7bab29c120f863fde111981299e/Big_data_image.jpg" width="250">
+<img src="https://bernardmarr.com/img/How%20Much%20Data%20Is%20There%20In%20the%20World.png" width="250">
 </p>
 My Solutions to Projects.
 
