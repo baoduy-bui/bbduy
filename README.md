@@ -9,7 +9,7 @@ Technical skills:
 # Projects
 These projects are an important step in my journey to become data fluent and help me build my data science portfolio.
 <p align="center"> 
-<img src="https://bernardmarr.com/img/How%20Much%20Data%20Is%20There%20In%20the%20World.png" width="250">
+<img src="https://imageio.forbes.com/blogs-images/bernardmarr/files/2018/05/AdobeStock_60784412-1200x720.jpeg?format=jpg&width=1200&fit=bounds" width="250">
 </p>
 My Solutions to Projects.
 
